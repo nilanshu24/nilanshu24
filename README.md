@@ -10,27 +10,28 @@
 
 <h2 align="center">:hammer_and_wrench: I'm Skilled in:</h2>
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="75px" width="75px"></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75px" width="75px/></a>
-<a href= "https://dev.to/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75px" width="75px"></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75px" width="75px"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="75px" width="75px"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75px" width="75px/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px"/></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="75px" width="75px"></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75px" width="75px/></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75px" width="75px"></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75px" width="75px"/></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="75px" width="75px"/></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75px" width="75px/></a>
+<a href= ""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px"/></a>
 </p>
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=nilanshu24.nilanshu24)
+<br>
+  <h2 align="center">⚽ Here are my 'GitHub Activity' Stats ⬇</h2>
+<p align="center">
+<a href= ""><img src="https://github-readme-stats.vercel.app/api?username=nilanshu24&show_icons=true&theme=radical" width="650px"/></a>
+</p>
 
-
-
-## Here are my 'GitHub Activity' Stats ⬇
-![Nilanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilanshu24&show_icons=true&theme=radical)
 <br><br>
-
-## Here are my 'Top Used Language' Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanshu24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <h2 align="center">💻 Here are my 'Top Used Language' Stats</h2>
+  <p align="center">
+<a href= ""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanshu24&layout=compact" width="550px"/></a>
+</p>
 
 <!---
 nilanshu24/nilanshu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +39,20 @@ You can click the Preview link to take a look at your changes.
 
 --->
 </center>
+<br><br>
+ <p align="center">
+<a href= ""><img src="https://visitor-badge.glitch.me/badge?page_id=nilanshu24.nilanshu24" width="75px"/></a>
+</p>
+<br><br>
+  <h3 align="center">🎈 Reach out to me:</h3>
+  <p align="center">
+<a target="_blank" href= "https://www.instagram.com/nilanshu.24/"><img style="margin: 40px;" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40px" width="40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href= "https://www.facebook.com/nilanshu.hedaoo/"><img style="margin: 0px 40px;" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href= "https://www.linkedin.com/in/nilanshu-hedaoo-269b05206"><img style="margin: 0px 40px;" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40px" width="40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href= "https://twitter.com/nilunatic24"><img style="margin: 0px 40px;" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="40px" width="40px"/></a>
+
+</p>
+
 <p align="center"><samp>
 Check out my repositories right here ⬇️  
   </samp>
