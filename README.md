@@ -1,8 +1,8 @@
 <center>
 
-<h1 align ="center"><samp> WELCOME 🍕</samp> </h1>
+<h1 align ="left"><samp> WELCOME 🍕</samp> </h1>
 
-<h3 align="center"><samp> Hola, Nilanshu Here😴. A someone who's turning more human everyday☠. I'm interested in 'Web and Android development'🤩. I'm currently learning 'Objective Java'🥶. I'm looking forward to work on with Development Projects🤓. Checkout my GitHub profile. Reach out to me through the social site links mentioned below.<br> You can mail me @<a href ="nilanshuhedaoo@gmail.com">nilanshuhedaoo@gmail.com</a></samp></h3>
+<h3 align="left"><samp> Hola, Nilanshu Here😴. A someone who's turning more human everyday☠. I'm interested in 'Web and Android development'🤩. I'm currently learning 'Objective Java'🥶. I'm looking forward to work on with Development Projects🤓. Checkout my GitHub profile. Reach out to me through the social site links mentioned below.<br> You can mail me @<a href ="nilanshuhedaoo@gmail.com">nilanshuhedaoo@gmail.com</a></samp></h3>
 
 <p align="center">
   <img width="250" src="https://media.baamboozle.com/uploads/images/291521/1615349787_103540_gif-url.gif">
